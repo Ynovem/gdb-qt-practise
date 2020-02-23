@@ -1,0 +1,3 @@
+set(CMAKE_AUTOMOC ON)
+
+find_package(Qt5 COMPONENTS Core Sql REQUIRED)
